@@ -3,8 +3,8 @@ criação de app web de blog com Django python
 
 You need to install virtualenv into ./blogDjango address for have a virtual environment
 
-  $sudo pip install virtualenv
+	$ sudo pip install virtualenv
  
-Init the virtual environment:
+Start the virtual environment:
 
 	$ source myvenv/bin/activate
